@@ -9,3 +9,4 @@ Webotron is a script that operates on tthe resource s3.
 Webotron currenty has the following features
 - List bucket
 - List content of a bucket
+- Create and set up bucket with website activate
